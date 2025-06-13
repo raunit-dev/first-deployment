@@ -1,4 +1,3 @@
-import { useState } from 'react';
 
 // Importing icons from lucide-react for a modern look
 import { Rocket, ShieldCheck, Lightbulb } from 'lucide-react';
